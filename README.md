@@ -1,0 +1,1 @@
+2.3. Test Mode Test:  [![Build status](https://ci.appveyor.com/api/projects/status/s4sg7kb64d77drp6?svg=true)](https://ci.appveyor.com/project/OlesyaSergeevnaPopova/testmodeapi)
